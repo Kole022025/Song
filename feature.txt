@@ -1,1 +1,2 @@
 This is the first commit in the feature branch
+This is the second commit in the feature branch
